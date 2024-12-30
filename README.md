@@ -15,9 +15,9 @@ The UI is designed to work seamlessly across different devices and screen sizes.
 Hand-shaking animations are used to simulate the suspense before revealing the results.
 
 🟢 Technologies Used:
-> HTML: For creating the structure of the game, including buttons, score display, and results section.
-> CSS: For styling the game and adding animations such as hand-shaking effects.
-> JavaScript: For implementing the game logic, randomization, event handling, and DOM manipulation.
+* HTML: For creating the structure of the game, including buttons, score display, and results section.
+* CSS: For styling the game and adding animations such as hand-shaking effects.
+* JavaScript: For implementing the game logic, randomization, event handling, and DOM manipulation.
 
 🟡 How It Works:
 * The player clicks on a button to choose Rock, Paper, or Scissors.
